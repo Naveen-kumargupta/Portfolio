@@ -1,4 +1,4 @@
-# 🌟 Ritesh's Portfolio
+# 🌟 Naveen's Portfolio
 
 
 Welcome to my personal portfolio repository! Explore my projects, skills, and journey as a developer. This site is built to showcase my work, share my story, and connect with like-minded professionals.
@@ -36,7 +36,7 @@ Welcome to my personal portfolio repository! Explore my projects, skills, and jo
 To run this project locally:
 
 ```bash
-git clone https://github.com/DevByRitesh/Portfolio.git
+git clone https://github.com/Naveen-kumargupta/Portfolio.git
 cd Portfolio
 npm install
 npm start
@@ -54,8 +54,8 @@ npm start
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ritesh-verma-61926a300/)
-- [Email](mailto:riteshverma882004@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/naveen-gupta155/)
+- [Email](mailto:naveenkumar21155@gmail.com)
 - [Portfolio](https://portfolio-kjb3.onrender.com/)
 
 ---
