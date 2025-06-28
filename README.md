@@ -7,7 +7,7 @@ Welcome to my personal portfolio repository! Explore my projects, skills, and jo
 
 ## 🚀 Demo
 
-[Live Demo](https://portfolio-kjb3.onrender.com/)
+[Live Demo](https://portfolio-jgpz.onrender.com/)
 
 ---
 
@@ -56,7 +56,7 @@ npm start
 
 - [LinkedIn](https://www.linkedin.com/in/naveen-gupta155/)
 - [Email](mailto:naveenkumar21155@gmail.com)
-- [Portfolio](https://portfolio-kjb3.onrender.com/)
+- [Portfolio](https://portfolio-jgpz.onrender.com/)
 
 ---
 
